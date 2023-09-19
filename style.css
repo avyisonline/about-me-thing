@@ -96,6 +96,10 @@ body {
     margin: 30px;
 }
 
+#linktree {
+    padding-top: 128px;
+}
+
 /*Classes*/
 
 .reset {
