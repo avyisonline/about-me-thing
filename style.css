@@ -4,6 +4,22 @@ body {
 
 /*IDs*/
 
+#nagivation {
+    background-color: #5f5a85;
+}
+
+#nagivation a {
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 20px;
+    text-decoration: none;
+    background-color: #AA0000;
+    color: #FFAA00;
+}
+
+#nagivation a:hover {
+    background-color: #770000;
+}
+
 #likeTheWholeThing {
     width: 1440px;
     margin: 0px auto 0px auto;
