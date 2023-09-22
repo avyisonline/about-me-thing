@@ -14,6 +14,7 @@ body {
     text-decoration: none;
     background-color: #AA0000;
     color: #FFAA00;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #nagivation a:hover {
@@ -71,6 +72,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
     float: left;
+    padding-left: 25px;
 }
 
 #whatHeader {
@@ -129,4 +131,76 @@ body {
 
 .socials:hover {
     box-shadow: 0 0 0 1px #FFFFFF;
+}
+
+/*gizz-list stuff*/
+
+#microtonesBaby {
+    padding-top: 12px;
+}
+
+#welcomeText {
+    color: #FFAA00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    background-color: #9691C2;
+    border-radius: 8px;
+}
+
+#subText {
+    color: #FFAA00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 16px;
+}
+
+#theGizzList {
+    color: #FFAA00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 24px;
+    padding-right: 436px;
+    float: left;
+    background-color: #5f5a85;
+    border-radius: 4px;
+}
+
+#iAmFunny {
+    color: #55FFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#prolificBand {
+    color: #FFAA00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 12px;
+}
+
+#theGreatestBand {
+    color: #AA0000;
+}
+
+#fiend {
+    color: #55FFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding-right: 343px;
+}
+
+#spotifyLink {
+    padding-top: 10px;
+    float: right;
+}
+
+#stuMackenzie {
+    padding-left: 40px;
+    float: left;
+}
+
+#theBigText {
+    background-color: #9691C2;
+    padding: 8px;
+    border-radius: 8px;
 }
